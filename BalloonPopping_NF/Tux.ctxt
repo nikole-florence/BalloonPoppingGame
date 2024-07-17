@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tux
+comment0.text=\n\ Tux\ the\ penguin\ is\ trying\ to\ catch\ as\ many\ fish\ and\ pop\ as\ many\ balloons\ as\ he\ can.\n\ \n\ @author\ Nikole\ Florence\n\ @version\ 10/30/23\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment3.params=
+comment3.target=void\ lookOut()
+comment4.params=
+comment4.target=void\ score()
+comment5.params=
+comment5.target=void\ toWin()
+numComments=6
